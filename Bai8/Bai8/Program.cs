@@ -33,6 +33,7 @@ namespace Bai8
                     Console.WriteLine("--------------------------");
                     Console.WriteLine($"Tu Dai Nhat La \"{tuDaiNhat}\"");
                     Console.WriteLine($"Do Dai: {tuDaiNhat.Length} ký tự");
+                    Console.WriteLine("Le Dinh Danh msv:2415053122308");
                 }
             }
         }

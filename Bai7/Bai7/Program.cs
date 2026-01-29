@@ -27,7 +27,7 @@ namespace Bai7
                     }
                 }
             }
-
+            Console.WriteLine("Le Dinh Danh msv:2415053122308");
             Console.ReadLine();
         }
     }

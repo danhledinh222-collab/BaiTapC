@@ -13,6 +13,7 @@ namespace Bai4
                 sum += i;
             }
             Console.WriteLine($"Tổng các số từ 1 đến {n} là: {sum}");
+            Console.WriteLine("Le Dinh Danh msv:2415053122308");
         }
     }
 }

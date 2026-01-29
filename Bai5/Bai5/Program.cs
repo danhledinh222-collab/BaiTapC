@@ -27,6 +27,7 @@ namespace Bai5
                 }
             }
             Console.WriteLine("Phan Tu Lon Nhat Trong Mang La: " + max);
+            Console.WriteLine("Le Dinh Danh msv:2415053122308");
         }
     }
 }

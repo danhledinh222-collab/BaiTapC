@@ -27,6 +27,7 @@ namespace Bai9
             }
             Console.WriteLine("---------------------------");
             Console.WriteLine($"Tong So Phan Tu La: {dem}");
+            Console.WriteLine("Le Dinh Danh msv:2415053122308");
             Console.ReadLine();
         }
     }

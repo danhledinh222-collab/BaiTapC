@@ -28,6 +28,7 @@ namespace Bai6
                 }
             }
             Console.WriteLine($"So Luong So Chan Trong Mang La: {count}");
+            Console.WriteLine("Le Dinh Danh msv:2415053122308");
         }
     }
 }

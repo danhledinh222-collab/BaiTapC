@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danh LD\\Desktop\\Bai5\\Bai5\\Bai5.csproj": {}
+    "C:\\Users\\Danh LD\\Desktop\\BaiTapC\\Bai5\\Bai5\\Bai5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danh LD\\Desktop\\Bai5\\Bai5\\Bai5.csproj": {
+    "C:\\Users\\Danh LD\\Desktop\\BaiTapC\\Bai5\\Bai5\\Bai5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danh LD\\Desktop\\Bai5\\Bai5\\Bai5.csproj",
+        "projectUniqueName": "C:\\Users\\Danh LD\\Desktop\\BaiTapC\\Bai5\\Bai5\\Bai5.csproj",
         "projectName": "Bai5",
-        "projectPath": "C:\\Users\\Danh LD\\Desktop\\Bai5\\Bai5\\Bai5.csproj",
+        "projectPath": "C:\\Users\\Danh LD\\Desktop\\BaiTapC\\Bai5\\Bai5\\Bai5.csproj",
         "packagesPath": "C:\\Users\\Danh LD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danh LD\\Desktop\\Bai5\\Bai5\\obj\\",
+        "outputPath": "C:\\Users\\Danh LD\\Desktop\\BaiTapC\\Bai5\\Bai5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
