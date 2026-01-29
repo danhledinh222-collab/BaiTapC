@@ -1,10 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Danh LD\\Desktop\\BaiTap1\\",
+  "WorkspaceRootPath": "C:\\Users\\Danh LD\\Desktop\\BaiTapC\\BaiTap1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\danh ld\\desktop\\baitap1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Danh LD\\Desktop\\BaiTap1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,13 +24,11 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Danh LD\\Desktop\\BaiTap1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\BaiTap1\\ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Danh LD\\Desktop\\BaiTap1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAABYAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\BaiTap1\\ConsoleApp1\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T00:28:46.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T00:28:46.419Z"
             }
           ]
         }

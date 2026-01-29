@@ -1,0 +1,14 @@
+C:\Users\Danh LD\Desktop\Bai6\Bai6\bin\Debug\net10.0\Bai6.exe
+C:\Users\Danh LD\Desktop\Bai6\Bai6\bin\Debug\net10.0\Bai6.deps.json
+C:\Users\Danh LD\Desktop\Bai6\Bai6\bin\Debug\net10.0\Bai6.runtimeconfig.json
+C:\Users\Danh LD\Desktop\Bai6\Bai6\bin\Debug\net10.0\Bai6.dll
+C:\Users\Danh LD\Desktop\Bai6\Bai6\bin\Debug\net10.0\Bai6.pdb
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.AssemblyInfoInputs.cache
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.AssemblyInfo.cs
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.dll
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\refint\Bai6.dll
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.pdb
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\Bai6.genruntimeconfig.cache
+C:\Users\Danh LD\Desktop\Bai6\Bai6\obj\Debug\net10.0\ref\Bai6.dll
